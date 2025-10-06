@@ -7,3 +7,5 @@ HSL
 198, 100, 50
 OKLCH
 0.73, 0.16, 238
+# Auto
+hue 200 auto
